@@ -1,4 +1,3 @@
-### :woman_technologist: About Me :
   <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Yaman Singh Rana</h1>
     <h3 align="center">I'm a skilled Network Automation and Security Engineer with expertise in automating network operations and implementing robust security measures</h3>
