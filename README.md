@@ -96,7 +96,7 @@
         <img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" alt="Wazuh" width="" height="80" />
     </a>
     <a href="https://otx.alienvault.com" target="_blank" rel="noreferrer">
-        <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/22285/foLL2MTfQEmEFCzgoWfe" alt="Alien Vault" width="" height="40" />
+        <img src="https://images.ctfassets.net/jt1nnnps6idb/2bnHaF9T95emxR6D101tUG/c1bd43ef3590c8a84c98a90f3d9e2fc7/alienvault-logo-pop__2x.png" alt="Alien Vault" width="" height="40" />
     </a>
     <a href="https://www.misp-project.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Misp-logo.png" alt="VirusTotal" width="" height="80" />
