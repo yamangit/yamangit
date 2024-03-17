@@ -86,7 +86,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Cyber Security and Threat analysis Platforms:
+### 🔒: Cyber Security and Threat analysis Platforms:
 <div>
     <a href="https://www.ibm.com/products/qradar-siem" target="_blank" rel="noreferrer">
         <img src="https://mindflow.io/wp-content/uploads/2023/05/IBM-QRadar.png"
