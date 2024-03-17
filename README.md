@@ -86,7 +86,7 @@
   </a>
 </div>
 
-### 🔒: Cyber Security and Threat analysis Platforms:
+### 🔒 Cyber Security and Threat analysis Platforms:
 <div>
     <a href="https://www.ibm.com/products/qradar-siem" target="_blank" rel="noreferrer">
         <img src="https://mindflow.io/wp-content/uploads/2023/05/IBM-QRadar.png"
@@ -103,7 +103,7 @@
     </a>
 </div>
 
-### :fire: My Stats :
+### :fire My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yamangit&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
