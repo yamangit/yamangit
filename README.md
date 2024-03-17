@@ -90,13 +90,13 @@
 <div>
     <a href="https://www.ibm.com/products/qradar-siem" target="_blank" rel="noreferrer">
         <img src="https://mindflow.io/wp-content/uploads/2023/05/IBM-QRadar.png"
-            alt="IBM Qradar Siem" width="80" height="80" />
+            alt="IBM Qradar Siem" width="" height="80" />
     </a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-        <img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" alt="Wazuh" width="" height="80" />
+        <img src="https://media.licdn.com/dms/image/D5612AQHWn2y_zC3TSA/article-cover_image-shrink_720_1280/0/1660201445585?e=2147483647&v=beta&t=iMebvXMyZDN3RWk3Oyw_DUF5Bhf_X0wa_iEYWvsiXpg" alt="Wazuh" width="" height="80" />
     </a>
     <a href="https://otx.alienvault.com" target="_blank" rel="noreferrer">
-        <img src="https://images.ctfassets.net/jt1nnnps6idb/2bnHaF9T95emxR6D101tUG/c1bd43ef3590c8a84c98a90f3d9e2fc7/alienvault-logo-pop__2x.png" alt="Alien Vault" width="" height="40" />
+        <img src="https://www.pngitem.com/pimgs/m/74-744461_alienvault-cyber-security-products-reviews-alien-vault-logo.png" alt="Alien Vault" width="" height="80" />
     </a>
     <a href="https://www.misp-project.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Misp-logo.png" alt="VirusTotal" width="" height="80" />
