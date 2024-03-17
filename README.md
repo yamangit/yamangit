@@ -85,6 +85,7 @@
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
   </a>
 </div>
+<br>
 
 ### 🔒 Cyber Security and Threat analysis Platforms:
 <div>
@@ -102,6 +103,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Misp-logo.png" alt="VirusTotal" width="" height="80" />
     </a>
 </div>
+<br>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yamangit&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
