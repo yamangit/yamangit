@@ -171,7 +171,7 @@
         <img src="https://checkmk.com/application/files/7416/8474/4905/checkmk-logo-green-on-white.png" alt="checkmk" width="" height="80"/>
     </a>
     <a href="https://www.cacti.net/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
-        <img src="https://www.cacti.net/images/logo.svg" alt="cacti" width="" height="80" />
+        <img src="https://avatars.githubusercontent.com/u/5142645?v=4&s=160" alt="cacti" width="" height="80" />
     </a>
     <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prometheus_icon_130229.png" alt="prometheus" width="" height="80" />
