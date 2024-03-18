@@ -167,7 +167,7 @@
     <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_168734.png" alt="Zabbix" width="" height="80" />
     </a>
-    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
+    <a href="https://checkmk.com/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
         <img src="https://checkmk.com/application/files/7416/8474/4905/checkmk-logo-green-on-white.png" alt="checkmk" width="" height="80"/>
     </a>
     <a href="https://www.cacti.net/" target="_blank" rel="noreferrer" style="margin-right: 2px;">
