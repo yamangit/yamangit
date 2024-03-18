@@ -81,7 +81,6 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right: 2px;"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
     </a> 
-      
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="margin-right: 2px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> 
     </a>
@@ -185,7 +184,6 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 5px;">
         <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="docker" width="" height="80" />
     </a>
-
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="margin-right: 5px;">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" alt="kubernetes" width="" height="80" />
     </a>
