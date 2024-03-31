@@ -227,5 +227,5 @@
 
 ![Yaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamangit&show_icons=true&theme=radical)
 
-### :Fire: Languages Used:
+### :fire: Languages Used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamangit&layout=compact&theme=vision-friendly-dark)
