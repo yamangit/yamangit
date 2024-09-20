@@ -135,7 +135,7 @@
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="margin-right: 2px;"> 
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" alt="mariadb" width="" height="80" /> 
     </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="margin-right: 2px;"> 
+    <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer" style="margin-right: 2px;"> 
         <img src="https://www.stackhero.io/assets/src/images/servicesLogos/influxdb.svg" alt="influxdb" width="" height="80" /> 
     </a>
 </div>
