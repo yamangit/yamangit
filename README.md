@@ -118,7 +118,7 @@
     <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
         <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="python-flask" width="180" height="60"/> 
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="flask" width="170" height="60"/> 
     </a>
 </div>
